@@ -2,7 +2,8 @@
 
 #### I'm Bernardo, a passionate Software Developer from Brazil. Welcome to my profile!
 With a background in Economics and currently pursuing a Bachelor in System Analysis and Development, I possess a solid foundation in both technical skills and analytical thinking. 
-- #### Full-stack developer at Senatec since May 2024.
+- #### Full-stack Developer at Senatec since May 2024.
+- #### Software Developer at Senatec since December 2024.
 
 ## 🌍 Languages
 - **English**: Advanced
